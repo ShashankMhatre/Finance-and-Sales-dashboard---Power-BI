@@ -1,6 +1,20 @@
 # Power BI Dashboards
 
-This repository showcases two interactive Power BI dashboards developed for business and financial insights: a **Sales Performance Dashboard** and a **Finance Complaints Analysis Dashboard**. Each dashboard is designed to deliver clear, actionable insights using data visualization best practices.
+This repository showcases two interactive Power BI dashboards developed for business and financial insights:
+- A **Sales Performance Dashboard**
+- A **Finance Complaints Analysis Dashboard**
+
+Each dashboard is designed to deliver clear, actionable insights using data visualization best practices.
+
+---
+
+## 📄 Files Overview
+
+| File                     | Description                             |
+|--------------------------|-----------------------------------------|
+| `README.md`              | This file — overview of the dashboards  |
+| `Sales.pdf`              | Sales Performance Dashboard             |
+| `Finanace Dashboard.pdf` | Finance Complaints Analysis Dashboard   |
 
 ---
 
@@ -8,45 +22,42 @@ This repository showcases two interactive Power BI dashboards developed for busi
 
 ### 1. Sales Dashboard
 
-📁 `Sales Dashboard/Sales.pdf`
+📄 [Sales.pdf](./Sales.pdf)
 
 This dashboard provides a detailed look at sales trends and profitability from 2014 to 2017.
 
-**Key Features:**
+**Key Highlights:**
 - **Total Revenue:** $2.3M  
 - **Total Profit:** $286.4K  
-- **Breakdown by Year & Quarter**  
-- **Sales by State** (map visualization)  
-- **Segment Analysis**: Consumer, Corporate, and Home Office  
-- **Profit by Product Category:** Technology, Office Supplies, and Furniture  
+- Sales by **year** and **quarter**
+- Segment breakdown: Consumer, Corporate, Home Office  
+- Category breakdown: Technology, Office Supplies, Furniture  
+- Geographic analysis using map visualizations  
 
 ---
 
 ### 2. Finance Complaints Dashboard
 
-📁 `Finance Dashboard/Finanace Dashboard.pdf`
+📄 [Finanace Dashboard.pdf](./Finanace%20Dashboard.pdf)
 
-This dashboard analyzes complaints in the financial industry, particularly focused on debt collection issues.
+This dashboard visualizes financial complaints, primarily focused on debt collection and consumer disputes.
 
-**Key Features:**
-- **Total Complaints:** 7177  
-- **Monetary Relief Provided:** 12K cases  
-- **Consent Rate:** 7.12%  
-- **Top 10 Complaint Issues** including:
+**Key Highlights:**
+- **Total Complaints Analyzed:** 7,177  
+- **Monetary Relief Cases:** 12K  
+- **Top Complaint Categories:**
   - Communication Tactics
   - Disclosure Verification
-  - False Representation
-- **Complaint Distribution by State**  
-- **Submission Channels** (Web, Phone, Mail, etc.)  
-- **Trend Analysis by Year**  
+  - Threats or Legal Action
+- State-wise complaint volumes  
+- Complaint submission channels (web, mail, phone, etc.)  
+- Year-wise trend of complaints  
 
 ---
 
-## 🧰 Tools Used
+## 🛠 Tools Used
 
 - Power BI Desktop
-- Excel / CSV (as data source)
-- Microsoft Maps Integration (Sales Geo View)
-- DAX for calculated measures
-
----
+- Excel/CSV (data source)
+- Microsoft Bing Maps (in Sales dashboard)
+- DAX calculations
