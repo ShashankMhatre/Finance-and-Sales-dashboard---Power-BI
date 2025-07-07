@@ -50,11 +50,3 @@ This dashboard analyzes complaints in the financial industry, particularly focus
 - DAX for calculated measures
 
 ---
-
-## 🚀 Getting Started
-
-To explore or build upon these dashboards:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/powerbi-dashboards.git
